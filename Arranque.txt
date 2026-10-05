@@ -1,0 +1,13 @@
+- Entrar en la carpeta *medios-educativos*
+
+
+- Abrir cmd
+
+
+- Instalar dependencias (solo una vez. Se necesita tener instalado Node.js): npm install --legacy-peer-deps
+
+
+- Ejecutar: npm run dev
+
+
+- Abrir en el navegador: http://localhost:5173/
